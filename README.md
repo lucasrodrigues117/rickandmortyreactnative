@@ -30,6 +30,6 @@ A aplicação consome a **API pública do Rick and Morty** e exibe personagens c
 ---
 
 ## 🔭 Demonstração  
-👉 [https://youtu.be/SEUVIDEOAQUI](https://youtube.com/shorts/afz9TuS6qyk?feature=shared)
+👉 https://youtube.com/shorts/afz9TuS6qyk?feature=shared
 
 ---
