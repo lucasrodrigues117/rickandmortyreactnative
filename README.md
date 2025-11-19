@@ -2,8 +2,6 @@
 ![React Native](https://img.shields.io/badge/React%20Native-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)  
 ![API](https://img.shields.io/badge/API-Rick%20%26%20Morty-8A2BE2?style=for-the-badge&logo=github&logoColor=white)  
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)  
-![Status](https://img.shields.io/badge/Status-Completo-blue?style=for-the-badge)
 
 ---
 
@@ -32,19 +30,6 @@ A aplicação consome a **API pública do Rick and Morty** e exibe personagens c
 ---
 
 ## 🔭 Demonstração  
-🎥 *Insira aqui o link da demonstração no YouTube ou vídeo curto*  
-👉 https://youtu.be/SEUVIDEOAQUI
+👉 [https://youtu.be/SEUVIDEOAQUI](https://youtube.com/shorts/afz9TuS6qyk?feature=shared)
 
 ---
-
-## ⚙️ Como rodar o projeto
-
-### **1. Prepare o ambiente**
-Requisitos mínimos:
-- Node.js + NPM  
-- Expo CLI (`npm install -g expo-cli`)  
-- VS Code ou outra IDE  
-
----
-
-###
